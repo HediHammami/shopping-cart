@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Pasta",
+    "price": 10.99,
+    "imgUrl": "/imgs/img1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chicken",
+    "price": 1199,
+    "imgUrl": "/imgs/img2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Vegies",
+    "price": 1.05,
+    "imgUrl": "/imgs/img3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Fruits",
+    "price": 14000,
+    "imgUrl": "/imgs/img4.jpg"
+  }
+]
